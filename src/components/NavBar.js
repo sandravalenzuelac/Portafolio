@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Navbar, Container, Nav } from "react-bootstrap";
 import iconLinkedin from "../img/iconLinkedin.png";
 import iconGithub from "../img/iconGithub.png";
-import logo from "../img/logo.png";
+import logo from "../img/logoUno.png";
 export const NavBar = () => {
 const [linkActive, setLinkActive] = useState('home');
 const [scrolled, setScrolled] = useState(false);
